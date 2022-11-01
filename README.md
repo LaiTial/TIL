@@ -1,6 +1,11 @@
 # Today I Learned(TIL) Wiki
 
-## 2022
+<details>
+<summary>##2022</summary>
+<div markdown="1">
+
+</div>
+</details>
 ### 11
 #### 01
 * [TIL 생성]
